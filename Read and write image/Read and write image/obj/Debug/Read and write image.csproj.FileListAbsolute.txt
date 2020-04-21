@@ -1,0 +1,154 @@
+E:\Image Processing\C# Trials\Pixel Level\Read and write image\Read and write image\Read and write image\bin\Debug\Read and write image.exe.config
+E:\Image Processing\C# Trials\Pixel Level\Read and write image\Read and write image\Read and write image\bin\Debug\Read and write image.exe
+E:\Image Processing\C# Trials\Pixel Level\Read and write image\Read and write image\Read and write image\bin\Debug\Read and write image.pdb
+E:\Image Processing\C# Trials\Pixel Level\Read and write image\Read and write image\Read and write image\obj\Debug\Read_and_write_image.Form1.resources
+E:\Image Processing\C# Trials\Pixel Level\Read and write image\Read and write image\Read and write image\obj\Debug\Read_and_write_image.Properties.Resources.resources
+E:\Image Processing\C# Trials\Pixel Level\Read and write image\Read and write image\Read and write image\obj\Debug\Read and write image.csproj.GenerateResource.Cache
+E:\Image Processing\C# Trials\Pixel Level\Read and write image\Read and write image\Read and write image\obj\Debug\Read and write image.exe
+E:\Image Processing\C# Trials\Pixel Level\Read and write image\Read and write image\Read and write image\obj\Debug\Read and write image.pdb
+E:\Image Processing\C# Trials\Pixel Level\Manipulate Pixels\Read and write image\Read and write image\bin\Debug\Read and write image.exe.config
+E:\Image Processing\C# Trials\Pixel Level\Manipulate Pixels\Read and write image\Read and write image\obj\Debug\Read and write image.exe
+E:\Image Processing\C# Trials\Pixel Level\Manipulate Pixels\Read and write image\Read and write image\obj\Debug\Read and write image.pdb
+E:\Image Processing\C# Trials\Pixel Level\Manipulate Pixels\Read and write image\Read and write image\bin\Debug\Read and write image.exe
+E:\Image Processing\C# Trials\Pixel Level\Manipulate Pixels\Read and write image\Read and write image\bin\Debug\Read and write image.pdb
+E:\Image Processing\C# Trials\Pixel Level\Manipulate Pixels\Read and write image\Read and write image\obj\Debug\Read and write image.csprojResolveAssemblyReference.cache
+E:\Image Processing\C# Trials\Pixel Level\Manipulate Pixels\Read and write image\Read and write image\obj\Debug\Read_and_write_image.Form1.resources
+E:\Image Processing\C# Trials\Pixel Level\Manipulate Pixels\Read and write image\Read and write image\obj\Debug\Read_and_write_image.Properties.Resources.resources
+E:\Image Processing\C# Trials\Pixel Level\Manipulate Pixels\Read and write image\Read and write image\obj\Debug\Read and write image.csproj.GenerateResource.Cache
+E:\Image Processing\C# Trials\Pixel Level\Negative Image\Read and write image\Read and write image\bin\Debug\Read and write image.exe.config
+E:\Image Processing\C# Trials\Pixel Level\Negative Image\Read and write image\Read and write image\obj\Debug\Read and write image.exe
+E:\Image Processing\C# Trials\Pixel Level\Negative Image\Read and write image\Read and write image\obj\Debug\Read and write image.pdb
+E:\Image Processing\C# Trials\Pixel Level\Negative Image\Read and write image\Read and write image\bin\Debug\Read and write image.exe
+E:\Image Processing\C# Trials\Pixel Level\Negative Image\Read and write image\Read and write image\bin\Debug\Read and write image.pdb
+E:\Image Processing\C# Trials\Pixel Level\Negative Image\Read and write image\Read and write image\obj\Debug\Read and write image.csprojResolveAssemblyReference.cache
+E:\Image Processing\C# Trials\Pixel Level\Negative Image\Read and write image\Read and write image\obj\Debug\Read_and_write_image.Form1.resources
+E:\Image Processing\C# Trials\Pixel Level\Negative Image\Read and write image\Read and write image\obj\Debug\Read_and_write_image.Properties.Resources.resources
+E:\Image Processing\C# Trials\Pixel Level\Negative Image\Read and write image\Read and write image\obj\Debug\Read and write image.csproj.GenerateResource.Cache
+E:\Image Processing\C# Trials\Pixel Level\Epipolar geometry\Read and write image\Read and write image\bin\Debug\Read and write image.exe.config
+E:\Image Processing\C# Trials\Pixel Level\Epipolar geometry\Read and write image\Read and write image\obj\Debug\Read and write image.exe
+E:\Image Processing\C# Trials\Pixel Level\Epipolar geometry\Read and write image\Read and write image\obj\Debug\Read and write image.pdb
+E:\Image Processing\C# Trials\Pixel Level\Epipolar geometry\Read and write image\Read and write image\bin\Debug\Read and write image.exe
+E:\Image Processing\C# Trials\Pixel Level\Epipolar geometry\Read and write image\Read and write image\bin\Debug\Read and write image.pdb
+E:\Image Processing\C# Trials\Pixel Level\Epipolar geometry\Read and write image\Read and write image\obj\Debug\Read and write image.csprojResolveAssemblyReference.cache
+E:\Image Processing\C# Trials\Pixel Level\Epipolar geometry\Read and write image\Read and write image\obj\Debug\Read_and_write_image.Form1.resources
+E:\Image Processing\C# Trials\Pixel Level\Epipolar geometry\Read and write image\Read and write image\obj\Debug\Read_and_write_image.Properties.Resources.resources
+E:\Image Processing\C# Trials\Pixel Level\Epipolar geometry\Read and write image\Read and write image\obj\Debug\Read and write image.csproj.GenerateResource.Cache
+E:\Image Processing\C# Trials\Pixel Level\6- Rectification Manual\Read and write image\Read and write image\obj\Debug\Read_and_write_image.Form1.resources
+E:\Image Processing\C# Trials\Pixel Level\6- Rectification Manual\Read and write image\Read and write image\obj\Debug\Read_and_write_image.Properties.Resources.resources
+E:\Image Processing\C# Trials\Pixel Level\6- Rectification Manual\Read and write image\Read and write image\obj\Debug\Read and write image.csproj.GenerateResource.Cache
+E:\Image Processing\C# Trials\Pixel Level\6- Rectification Manual\Read and write image\Read and write image\bin\Debug\Read and write image.exe.config
+E:\Image Processing\C# Trials\Pixel Level\6- Rectification Manual\Read and write image\Read and write image\bin\Debug\Read and write image.exe
+E:\Image Processing\C# Trials\Pixel Level\6- Rectification Manual\Read and write image\Read and write image\bin\Debug\Read and write image.pdb
+E:\Image Processing\C# Trials\Pixel Level\6- Rectification Manual\Read and write image\Read and write image\obj\Debug\Read and write image.exe
+E:\Image Processing\C# Trials\Pixel Level\6- Rectification Manual\Read and write image\Read and write image\obj\Debug\Read and write image.pdb
+E:\Image Processing\C# Trials\Pixel Level\7- Stetching Manual\Read and write image\Read and write image\bin\Debug\Read and write image.exe.config
+E:\Image Processing\C# Trials\Pixel Level\7- Stetching Manual\Read and write image\Read and write image\obj\Debug\Read and write image.exe
+E:\Image Processing\C# Trials\Pixel Level\7- Stetching Manual\Read and write image\Read and write image\obj\Debug\Read and write image.pdb
+E:\Image Processing\C# Trials\Pixel Level\7- Stetching Manual\Read and write image\Read and write image\bin\Debug\Read and write image.exe
+E:\Image Processing\C# Trials\Pixel Level\7- Stetching Manual\Read and write image\Read and write image\bin\Debug\Read and write image.pdb
+E:\Image Processing\C# Trials\Pixel Level\7- Stetching Manual\Read and write image\Read and write image\obj\Debug\Read and write image.csprojResolveAssemblyReference.cache
+E:\Image Processing\C# Trials\Pixel Level\7- Stetching Manual\Read and write image\Read and write image\obj\Debug\Read_and_write_image.Form1.resources
+E:\Image Processing\C# Trials\Pixel Level\7- Stetching Manual\Read and write image\Read and write image\obj\Debug\Read_and_write_image.Properties.Resources.resources
+E:\Image Processing\C# Trials\Pixel Level\7- Stetching Manual\Read and write image\Read and write image\obj\Debug\Read and write image.csproj.GenerateResource.Cache
+E:\Image Processing\C# Trials\Pixel Level\7- b Stetching Manual\Read and write image\Read and write image\obj\Debug\Read_and_write_image.Form1.resources
+E:\Image Processing\C# Trials\Pixel Level\7- b Stetching Manual\Read and write image\Read and write image\obj\Debug\Read_and_write_image.Properties.Resources.resources
+E:\Image Processing\C# Trials\Pixel Level\7- b Stetching Manual\Read and write image\Read and write image\obj\Debug\Read and write image.csproj.GenerateResource.Cache
+E:\Image Processing\C# Trials\Pixel Level\7- b Stetching Manual\Read and write image\Read and write image\bin\Debug\Read and write image.exe.config
+E:\Image Processing\C# Trials\Pixel Level\7- b Stetching Manual\Read and write image\Read and write image\bin\Debug\Read and write image.exe
+E:\Image Processing\C# Trials\Pixel Level\7- b Stetching Manual\Read and write image\Read and write image\bin\Debug\Read and write image.pdb
+E:\Image Processing\C# Trials\Pixel Level\7- b Stetching Manual\Read and write image\Read and write image\obj\Debug\Read and write image.exe
+E:\Image Processing\C# Trials\Pixel Level\7- b Stetching Manual\Read and write image\Read and write image\obj\Debug\Read and write image.pdb
+E:\Image Processing\C# Trials\Pixel Level\7- b Stetching Manual\Read and write image\Read and write image\obj\Debug\Read and write image.csprojResolveAssemblyReference.cache
+E:\Image Processing\C# Trials\Pixel Level\7- b Stetching Manual Trial 2\Read and write image\Read and write image\bin\Debug\Read and write image.exe.config
+E:\Image Processing\C# Trials\Pixel Level\7- b Stetching Manual Trial 2\Read and write image\Read and write image\obj\Debug\Read and write image.exe
+E:\Image Processing\C# Trials\Pixel Level\7- b Stetching Manual Trial 2\Read and write image\Read and write image\obj\Debug\Read and write image.pdb
+E:\Image Processing\C# Trials\Pixel Level\7- b Stetching Manual Trial 2\Read and write image\Read and write image\obj\Debug\Read and write image.csprojResolveAssemblyReference.cache
+E:\Image Processing\C# Trials\Pixel Level\7- b Stetching Manual Trial 2\Read and write image\Read and write image\obj\Debug\Read_and_write_image.Form1.resources
+E:\Image Processing\C# Trials\Pixel Level\7- b Stetching Manual Trial 2\Read and write image\Read and write image\obj\Debug\Read_and_write_image.Properties.Resources.resources
+E:\Image Processing\C# Trials\Pixel Level\7- b Stetching Manual Trial 2\Read and write image\Read and write image\obj\Debug\Read and write image.csproj.GenerateResource.Cache
+E:\Image Processing\C# Trials\Pixel Level\7- b Stetching Manual Trial 2\Read and write image\Read and write image\bin\Debug\Read and write image.exe
+E:\Image Processing\C# Trials\Pixel Level\7- b Stetching Manual Trial 2\Read and write image\Read and write image\bin\Debug\Read and write image.pdb
+D:\Ahmed Mokhtar\ahmed Mokhtar sharm 2017\Pixel Level\8- Read image sequence and stetch SSH\Read and write image\Read and write image\bin\Debug\Read and write image.exe.config
+D:\Ahmed Mokhtar\ahmed Mokhtar sharm 2017\Pixel Level\8- Read image sequence and stetch SSH\Read and write image\Read and write image\obj\Debug\Read and write image.exe
+D:\Ahmed Mokhtar\ahmed Mokhtar sharm 2017\Pixel Level\8- Read image sequence and stetch SSH\Read and write image\Read and write image\obj\Debug\Read and write image.pdb
+D:\Ahmed Mokhtar\ahmed Mokhtar sharm 2017\Pixel Level\8- Read image sequence and stetch SSH\Read and write image\Read and write image\bin\Debug\Read and write image.exe
+D:\Ahmed Mokhtar\ahmed Mokhtar sharm 2017\Pixel Level\8- Read image sequence and stetch SSH\Read and write image\Read and write image\bin\Debug\Read and write image.pdb
+D:\Ahmed Mokhtar\ahmed Mokhtar sharm 2017\Pixel Level\8- Read image sequence and stetch SSH\Read and write image\Read and write image\obj\Debug\Read and write image.csprojResolveAssemblyReference.cache
+D:\Ahmed Mokhtar\ahmed Mokhtar sharm 2017\Pixel Level\8- Read image sequence and stetch SSH\Read and write image\Read and write image\obj\Debug\Read_and_write_image.Form1.resources
+D:\Ahmed Mokhtar\ahmed Mokhtar sharm 2017\Pixel Level\8- Read image sequence and stetch SSH\Read and write image\Read and write image\obj\Debug\Read_and_write_image.Properties.Resources.resources
+D:\Ahmed Mokhtar\ahmed Mokhtar sharm 2017\Pixel Level\8- Read image sequence and stetch SSH\Read and write image\Read and write image\obj\Debug\Read and write image.csproj.GenerateResource.Cache
+D:\Ahmed Mokhtar\ahmed Mokhtar sharm 2017\Pixel Level\8- Read image sequence and stetch SSH - Back up\Read and write image\Read and write image\bin\Debug\Read and write image.exe.config
+D:\Ahmed Mokhtar\ahmed Mokhtar sharm 2017\Pixel Level\8- Read image sequence and stetch SSH - Back up\Read and write image\Read and write image\bin\Debug\Read and write image.exe
+D:\Ahmed Mokhtar\ahmed Mokhtar sharm 2017\Pixel Level\8- Read image sequence and stetch SSH - Back up\Read and write image\Read and write image\bin\Debug\Read and write image.pdb
+D:\Ahmed Mokhtar\ahmed Mokhtar sharm 2017\Pixel Level\8- Read image sequence and stetch SSH - Back up\Read and write image\Read and write image\obj\Debug\Read and write image.csprojResolveAssemblyReference.cache
+D:\Ahmed Mokhtar\ahmed Mokhtar sharm 2017\Pixel Level\8- Read image sequence and stetch SSH - Back up\Read and write image\Read and write image\obj\Debug\Read_and_write_image.Form1.resources
+D:\Ahmed Mokhtar\ahmed Mokhtar sharm 2017\Pixel Level\8- Read image sequence and stetch SSH - Back up\Read and write image\Read and write image\obj\Debug\Read_and_write_image.Properties.Resources.resources
+D:\Ahmed Mokhtar\ahmed Mokhtar sharm 2017\Pixel Level\8- Read image sequence and stetch SSH - Back up\Read and write image\Read and write image\obj\Debug\Read and write image.csproj.GenerateResource.Cache
+D:\Ahmed Mokhtar\ahmed Mokhtar sharm 2017\Pixel Level\8- Read image sequence and stetch SSH - Back up\Read and write image\Read and write image\obj\Debug\Read and write image.exe
+D:\Ahmed Mokhtar\ahmed Mokhtar sharm 2017\Pixel Level\8- Read image sequence and stetch SSH - Back up\Read and write image\Read and write image\obj\Debug\Read and write image.pdb
+E:\Image Processing\C# Trials\Pixel Level\8- Read image sequence and stetch SSH - Back up\Read and write image\Read and write image\bin\Debug\Read and write image.exe.config
+E:\Image Processing\C# Trials\Pixel Level\8- Read image sequence and stetch SSH - Back up\Read and write image\Read and write image\bin\Debug\Read and write image.exe
+E:\Image Processing\C# Trials\Pixel Level\8- Read image sequence and stetch SSH - Back up\Read and write image\Read and write image\bin\Debug\Read and write image.pdb
+E:\Image Processing\C# Trials\Pixel Level\8- Read image sequence and stetch SSH - Back up\Read and write image\Read and write image\obj\Debug\Read_and_write_image.Form1.resources
+E:\Image Processing\C# Trials\Pixel Level\8- Read image sequence and stetch SSH - Back up\Read and write image\Read and write image\obj\Debug\Read_and_write_image.Properties.Resources.resources
+E:\Image Processing\C# Trials\Pixel Level\8- Read image sequence and stetch SSH - Back up\Read and write image\Read and write image\obj\Debug\Read and write image.csproj.GenerateResource.Cache
+E:\Image Processing\C# Trials\Pixel Level\8- Read image sequence and stetch SSH - Back up\Read and write image\Read and write image\obj\Debug\Read and write image.exe
+E:\Image Processing\C# Trials\Pixel Level\8- Read image sequence and stetch SSH - Back up\Read and write image\Read and write image\obj\Debug\Read and write image.pdb
+E:\Image Processing\C# Trials\Pixel Level\8- Read image sequence and stetch SSH - Back up\Read and write image\Read and write image\obj\Debug\Read and write image.csprojResolveAssemblyReference.cache
+E:\Image Processing\C# Trials\Pixel Level\10- Read image sequence, Rectification  and stetch\Read and write image\Read and write image\bin\Debug\Read and write image.exe.config
+E:\Image Processing\C# Trials\Pixel Level\10- Read image sequence, Rectification  and stetch\Read and write image\Read and write image\obj\Debug\Read and write image.exe
+E:\Image Processing\C# Trials\Pixel Level\10- Read image sequence, Rectification  and stetch\Read and write image\Read and write image\obj\Debug\Read and write image.pdb
+E:\Image Processing\C# Trials\Pixel Level\10- Read image sequence, Rectification  and stetch\Read and write image\Read and write image\bin\Debug\Read and write image.exe
+E:\Image Processing\C# Trials\Pixel Level\10- Read image sequence, Rectification  and stetch\Read and write image\Read and write image\bin\Debug\Read and write image.pdb
+E:\Image Processing\C# Trials\Pixel Level\10- Read image sequence, Rectification  and stetch\Read and write image\Read and write image\obj\Debug\Read_and_write_image.Form1.resources
+E:\Image Processing\C# Trials\Pixel Level\10- Read image sequence, Rectification  and stetch\Read and write image\Read and write image\obj\Debug\Read_and_write_image.Properties.Resources.resources
+E:\Image Processing\C# Trials\Pixel Level\10- Read image sequence, Rectification  and stetch\Read and write image\Read and write image\obj\Debug\Read and write image.csproj.GenerateResource.Cache
+E:\Image Processing\C# Trials\Pixel Level\10- Read image sequence, Rectification  and stetch\Read and write image\Read and write image\obj\Debug\Read and write image.csprojResolveAssemblyReference.cache
+H:\Image Processing\C# Trials\Pixel Level\13- 2019 Player Class\Read and write image\Read and write image\bin\Debug\Read and write image.exe.config
+H:\Image Processing\C# Trials\Pixel Level\13- 2019 Player Class\Read and write image\Read and write image\bin\Debug\Read and write image.exe
+H:\Image Processing\C# Trials\Pixel Level\13- 2019 Player Class\Read and write image\Read and write image\bin\Debug\Read and write image.pdb
+H:\Image Processing\C# Trials\Pixel Level\13- 2019 Player Class\Read and write image\Read and write image\obj\Debug\Read and write image.csprojAssemblyReference.cache
+H:\Image Processing\C# Trials\Pixel Level\13- 2019 Player Class\Read and write image\Read and write image\obj\Debug\Read_and_write_image.Form1.resources
+H:\Image Processing\C# Trials\Pixel Level\13- 2019 Player Class\Read and write image\Read and write image\obj\Debug\Read_and_write_image.Properties.Resources.resources
+H:\Image Processing\C# Trials\Pixel Level\13- 2019 Player Class\Read and write image\Read and write image\obj\Debug\Read and write image.csproj.GenerateResource.cache
+H:\Image Processing\C# Trials\Pixel Level\13- 2019 Player Class\Read and write image\Read and write image\obj\Debug\Read and write image.csproj.CoreCompileInputs.cache
+H:\Image Processing\C# Trials\Pixel Level\13- 2019 Player Class\Read and write image\Read and write image\obj\Debug\Read and write image.exe
+H:\Image Processing\C# Trials\Pixel Level\13- 2019 Player Class\Read and write image\Read and write image\obj\Debug\Read and write image.pdb
+F:\Programming\Sharm 2019\13- 2019 Player Class\Read and write image\Read and write image\bin\Debug\Read and write image.exe.config
+F:\Programming\Sharm 2019\13- 2019 Player Class\Read and write image\Read and write image\bin\Debug\Read and write image.exe
+F:\Programming\Sharm 2019\13- 2019 Player Class\Read and write image\Read and write image\bin\Debug\Read and write image.pdb
+F:\Programming\Sharm 2019\13- 2019 Player Class\Read and write image\Read and write image\obj\Debug\Read_and_write_image.Form1.resources
+F:\Programming\Sharm 2019\13- 2019 Player Class\Read and write image\Read and write image\obj\Debug\Read_and_write_image.Properties.Resources.resources
+F:\Programming\Sharm 2019\13- 2019 Player Class\Read and write image\Read and write image\obj\Debug\Read and write image.csproj.GenerateResource.Cache
+F:\Programming\Sharm 2019\13- 2019 Player Class\Read and write image\Read and write image\obj\Debug\Read and write image.exe
+F:\Programming\Sharm 2019\13- 2019 Player Class\Read and write image\Read and write image\obj\Debug\Read and write image.pdb
+F:\Programming\Sharm 2019\13- 2019 Player Class\Read and write image\Read and write image\obj\Debug\Read and write image.csprojResolveAssemblyReference.cache
+H:\Image Processing\C# Trials\Pixel Level\13- 2019 Player Class - two points tracking\Read and write image\Read and write image\obj\Debug\Read_and_write_image.Form1.resources
+H:\Image Processing\C# Trials\Pixel Level\13- 2019 Player Class - two points tracking\Read and write image\Read and write image\obj\Debug\Read_and_write_image.Properties.Resources.resources
+H:\Image Processing\C# Trials\Pixel Level\13- 2019 Player Class - two points tracking\Read and write image\Read and write image\obj\Debug\Read and write image.csproj.GenerateResource.cache
+H:\Image Processing\C# Trials\Pixel Level\13- 2019 Player Class - two points tracking\Read and write image\Read and write image\obj\Debug\Read and write image.csproj.CoreCompileInputs.cache
+H:\Image Processing\C# Trials\Pixel Level\13- 2019 Player Class - two points tracking\Read and write image\Read and write image\bin\Debug\Read and write image.exe.config
+H:\Image Processing\C# Trials\Pixel Level\13- 2019 Player Class - two points tracking\Read and write image\Read and write image\bin\Debug\Read and write image.exe
+H:\Image Processing\C# Trials\Pixel Level\13- 2019 Player Class - two points tracking\Read and write image\Read and write image\bin\Debug\Read and write image.pdb
+H:\Image Processing\C# Trials\Pixel Level\13- 2019 Player Class - two points tracking\Read and write image\Read and write image\obj\Debug\Read and write image.exe
+H:\Image Processing\C# Trials\Pixel Level\13- 2019 Player Class - two points tracking\Read and write image\Read and write image\obj\Debug\Read and write image.pdb
+H:\Image Processing\C# Trials\Pixel Level\13- 2019 Player Class - two points tracking\Read and write image\Read and write image\obj\Debug\Read and write image.csprojAssemblyReference.cache
+H:\Image Processing\C# Trials\Pixel Level\13- 2019 Player Class - Multi points tracking\Read and write image\Read and write image\bin\Debug\Read and write image.exe.config
+H:\Image Processing\C# Trials\Pixel Level\13- 2019 Player Class - Multi points tracking\Read and write image\Read and write image\bin\Debug\Read and write image.exe
+H:\Image Processing\C# Trials\Pixel Level\13- 2019 Player Class - Multi points tracking\Read and write image\Read and write image\bin\Debug\Read and write image.pdb
+H:\Image Processing\C# Trials\Pixel Level\13- 2019 Player Class - Multi points tracking\Read and write image\Read and write image\obj\Debug\Read_and_write_image.Form1.resources
+H:\Image Processing\C# Trials\Pixel Level\13- 2019 Player Class - Multi points tracking\Read and write image\Read and write image\obj\Debug\Read_and_write_image.Properties.Resources.resources
+H:\Image Processing\C# Trials\Pixel Level\13- 2019 Player Class - Multi points tracking\Read and write image\Read and write image\obj\Debug\Read and write image.csproj.GenerateResource.cache
+H:\Image Processing\C# Trials\Pixel Level\13- 2019 Player Class - Multi points tracking\Read and write image\Read and write image\obj\Debug\Read and write image.csproj.CoreCompileInputs.cache
+H:\Image Processing\C# Trials\Pixel Level\13- 2019 Player Class - Multi points tracking\Read and write image\Read and write image\obj\Debug\Read and write image.exe
+H:\Image Processing\C# Trials\Pixel Level\13- 2019 Player Class - Multi points tracking\Read and write image\Read and write image\obj\Debug\Read and write image.pdb
+H:\Image Processing\C# Trials\Pixel Level\13- 2019 Player Class - Multi points tracking\Read and write image\Read and write image\obj\Debug\Read and write image.csprojAssemblyReference.cache
+H:\Image Processing\C# Trials\Pixel Level\15- Multi Players tracking (No OOPs)\Read and write image\Read and write image\bin\Debug\Read and write image.exe.config
+H:\Image Processing\C# Trials\Pixel Level\15- Multi Players tracking (No OOPs)\Read and write image\Read and write image\bin\Debug\Read and write image.exe
+H:\Image Processing\C# Trials\Pixel Level\15- Multi Players tracking (No OOPs)\Read and write image\Read and write image\bin\Debug\Read and write image.pdb
+H:\Image Processing\C# Trials\Pixel Level\15- Multi Players tracking (No OOPs)\Read and write image\Read and write image\obj\Debug\Read and write image.csprojAssemblyReference.cache
+H:\Image Processing\C# Trials\Pixel Level\15- Multi Players tracking (No OOPs)\Read and write image\Read and write image\obj\Debug\Read_and_write_image.Form1.resources
+H:\Image Processing\C# Trials\Pixel Level\15- Multi Players tracking (No OOPs)\Read and write image\Read and write image\obj\Debug\Read_and_write_image.Properties.Resources.resources
+H:\Image Processing\C# Trials\Pixel Level\15- Multi Players tracking (No OOPs)\Read and write image\Read and write image\obj\Debug\Read and write image.csproj.GenerateResource.cache
+H:\Image Processing\C# Trials\Pixel Level\15- Multi Players tracking (No OOPs)\Read and write image\Read and write image\obj\Debug\Read and write image.exe
+H:\Image Processing\C# Trials\Pixel Level\15- Multi Players tracking (No OOPs)\Read and write image\Read and write image\obj\Debug\Read and write image.pdb
