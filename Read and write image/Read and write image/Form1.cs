@@ -511,7 +511,7 @@ namespace Read_and_write_image
                     File_Name_counter = File_Name + z1.ToString("0000") + ".png";
                     check = Folder_Path + File_Name_counter;
                     //Img_Stetch.Save(Folder_Path + File_Name_counter);
-                    Img_Test.Save(Folder_Path + File_Name_counter);
+                    // AMA 2020 Img_Test.Save(Folder_Path + File_Name_counter);
                     z1++;
                     ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
                     //load image in in picturebox2
@@ -521,7 +521,7 @@ namespace Read_and_write_image
                    // int temphieght = bmp_Fun_R.Height;
 
                     //write image
-                    //Img_Test.Save(@"H:\Image Processing\C# Trials\Pixel Level\Images Test\o.png");
+                    Img_Test.Save(@"H:\Image Processing\C# Trials\Pixel Level\Images Test\o.png");
 
                 }// Img_No
             }
