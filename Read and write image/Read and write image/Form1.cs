@@ -487,8 +487,8 @@ namespace Read_and_write_image
                             Img_Test.SetPixel(x, y, Color.FromArgb(255, 255, 0, 0));
                         }
                     }
-                    //Update
-                    /*
+                    //Update AMA AUG 2020
+                    
                     if (xCoordinate != 0)
                     {
                         x_object = xCoordinate;
@@ -499,7 +499,7 @@ namespace Read_and_write_image
                         x_object = x;
                         y_object = y;
                     }
-                    */
+                    
                     /////////////////////////////////////////////////////////////////////////////////////////
 
 
@@ -511,7 +511,7 @@ namespace Read_and_write_image
                     File_Name_counter = File_Name + z1.ToString("0000") + ".png";
                     check = Folder_Path + File_Name_counter;
                     //Img_Stetch.Save(Folder_Path + File_Name_counter);
-                    // AMA 2020 Img_Test.Save(Folder_Path + File_Name_counter);
+                    // AMA AUG 2020 Img_Test.Save(Folder_Path + File_Name_counter);
                     z1++;
                     ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
                     //load image in in picturebox2
@@ -521,7 +521,7 @@ namespace Read_and_write_image
                    // int temphieght = bmp_Fun_R.Height;
 
                     //write image
-                    Img_Test.Save(@"H:\Image Processing\C# Trials\Pixel Level\Images Test\o.png");
+                    Img_Test.Save(@"H:\Image Processing\C# Trials\Pixel Level\Images Test\o.png"); //AMA AUG 2020
 
                 }// Img_No
             }
