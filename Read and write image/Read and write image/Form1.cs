@@ -44,10 +44,10 @@ namespace Read_and_write_image
 
 
 
-        double x_temp, y_temp, y_temp1, oper1, oper2, oper3, oper4, oper5, oper6, m;
+        float x_temp, y_temp, y_temp1, oper1, oper2, oper3, oper4, oper5, oper6, m;
         int calctemp;
-        double slope_R, slope_L;
-        // double slope_R = 0.00028, slope_L = 0.00028;
+        float slope_R, slope_L;
+        // float slope_R = 0.00028, slope_L = 0.00028;
         int x_shift_L, y_shift_L, x_shift_R, y_shift_R;
         int widthFun_R, heightFun_R, widthFun_L, heightFun_L, width_Stetch, height_Stetch;
         int width_R, height_R, width_L, height_L;
@@ -88,7 +88,7 @@ namespace Read_and_write_image
         //string finename_L = "Canera1-";
         //END ADDED: for the sake of traching
 
-        double d = 0.142857143;
+        float d = 0.142857143;
 
         //slope_R = 0.0007;// 0; //0.0007
         //slope_L = 0;// -0.00028;// 0.00040;
@@ -122,10 +122,10 @@ namespace Read_and_write_image
             int No_of_Rows_Right, No_of_Rows_Left;
             int x1, x2, y1, y2;
             int X1_R ,Y1_R , X2_R , Y2_R , X1_L,Y1_L, X2_L, Y2_L;
-            double x_temp, y_temp, y_temp1, oper1, oper2, oper3, oper4, oper5, oper6, m;
+            float x_temp, y_temp, y_temp1, oper1, oper2, oper3, oper4, oper5, oper6, m;
             int calctemp;
-            double slope_R, slope_L;
-            // double slope_R = 0.00028, slope_L = 0.00028;
+            float slope_R, slope_L;
+            // float slope_R = 0.00028, slope_L = 0.00028;
             int x_shift_L, y_shift_L, x_shift_R, y_shift_R;
             int widthFun_R, heightFun_R, widthFun_L, heightFun_L, width_Stetch, height_Stetch;
             int width_R, height_R, width_L, height_L;
@@ -167,7 +167,7 @@ namespace Read_and_write_image
             //string finename_L = "Canera1-";
             //END ADDED: for the sake of traching
 
-            double d = 0.142857143;
+            float d = 0.142857143;
 
             slope_R = 0.0007;// 0; //0.0007
             slope_L = 0;// -0.00028;// 0.00040;
